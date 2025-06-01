@@ -16,7 +16,6 @@ I'm an aspiring web developer and student who loves building, experimenting, and
 
 ## 📚 Projects I'm Working On
 - IntelliCity: A smart city web platform for sustainability and transportation
-- Manuscript Insight: A website bridging traditional manuscripts and modern products
 - A recipe-sharing website with user-submitted recipes
 
 ## 💡 Goals for 2025
