@@ -1,30 +1,44 @@
 # 👋 Hi, I'm David
 
-I'm an aspiring web developer and student who loves building, experimenting, and learning. I'm currently focused on mastering HTML, CSS, and JavaScript through hands-on projects.
+🎓 I'm a 14-year-old student and aspiring web developer passionate about learning, building, and creating digital experiences.
+
+---
 
 ## 🌱 Currently Learning
-- JavaScript (Front-end focused)
-- Project-based HTML & CSS
-- Git and GitHub
-- Web design best practices
+- JavaScript (with a focus on frontend)
+- Responsive web design with HTML & CSS
+- Git & GitHub
+- UI design with Canva
 
-## 🛠️ Skills
-- HTML5, CSS3
-- Tailwind CSS / Bootstrap
-- Beginner JavaScript
-- Canva design
+---
 
-## 📚 Projects I'm Working On
-- IntelliCity: A smart city web platform for sustainability and transportation
-- A recipe-sharing website with user-submitted recipes
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-## 💡 Goals for 2025
-- Become proficient in JavaScript
-- Complete at least 10 real-world web projects
-- Start learning Python for backend development
-- Contribute to open-source
+---
 
-## 📫 Let's Connect!
-You can reach me via email at: **intellicity123@gmail.com**
+## 📚 Projects
+- 🌐 **IntelliCity** – Smart city platform focusing on sustainability and tech
+- 🍽️ **Recipe Sharing Site** – Share, discover, and save your favorite dishes
 
-Thanks for visiting my profile! I'm always open to feedback, collaboration, and learning new things.
+---
+
+## 📊 GitHub Stats
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAdetayo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdetayo&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+📧 tolukorede4@gmail.com
+💬 Open to learning, feedback, and collaboration!
+
+---
+
+> 🚀 “Every line of code is one step closer to mastery.”
