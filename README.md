@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm David
 
-<!--
-**davidoadetayo/davidoadetayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer and student who loves building, experimenting, and learning. I'm currently focused on mastering HTML, CSS, and JavaScript through hands-on projects.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- JavaScript (Front-end focused)
+- Project-based HTML & CSS
+- Git and GitHub
+- Web design best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5, CSS3
+- Tailwind CSS / Bootstrap
+- Beginner JavaScript
+- Canva design
+
+## 📚 Projects I'm Working On
+- IntelliCity: A smart city web platform for sustainability and transportation
+- Manuscript Insight: A website bridging traditional manuscripts and modern products
+- A recipe-sharing website with user-submitted recipes
+
+## 💡 Goals for 2025
+- Become proficient in JavaScript
+- Complete at least 10 real-world web projects
+- Start learning Python for backend development
+- Contribute to open-source
+
+## 📫 Let's Connect!
+You can reach me via email at: **intellicity123@gmail.com**
+
+Thanks for visiting my profile! I'm always open to feedback, collaboration, and learning new things.
