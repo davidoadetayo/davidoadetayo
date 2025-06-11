@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David
 
-🎓 I'm a 14-year-old student and aspiring web developer passionate about learning, building, and creating digital experiences.
+🎓 I'm an aspiring web developer passionate about learning, building, and creating digital experiences.
 
 ---
 
