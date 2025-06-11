@@ -28,11 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAdetayo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdetayo&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Contact
